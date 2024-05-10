@@ -1,5 +1,8 @@
 # backend-python
 
+[![GitHub stable release version](https://img.shields.io/github/v/release/JackieWaltRyan/backend-python.svg?label=Version&logo=github&cacheSeconds=600&style=flat-square)](https://github.com/JackieWaltRyan/backend-python/releases/latest)
+[![Github stable release downloads](https://img.shields.io/github/downloads/JackieWaltRyan/backend-python/latest/total.svg?label=Downloads&logo=github&cacheSeconds=600&style=flat-square)![Total downloads](https://img.shields.io/github/downloads/JackieWaltRyan/backend-python/total.svg?label=%2F&cacheSeconds=600&style=flat-square)](https://github.com/JackieWaltRyan/backend-python/releases/latest)
+
 Backend server for the site "[ТО "Магия Дружбы"](https://bronyru.info)".
 
 ### License
